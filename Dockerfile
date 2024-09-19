@@ -1,8 +1,8 @@
 FROM python:3.11
 
-WORKDIR /Test
+WORKDIR /HABBOT
 
-COPY . /Test
+COPY . /HABBOT
 
 RUN pip install -r requirements.txt
 
