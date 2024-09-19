@@ -4,13 +4,13 @@ class script(object):
     
 <blockquote>ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴀꜱ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ... ɪᴛ'ꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ᴍᴏᴠɪᴇꜱ ᴡɪᴛʜ ʏᴏᴜʀ ʟɪɴᴋ ꜱʜᴏʀᴛᴇɴᴇʀ... ♻️</blockquote></b>"""
 
-    MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
+    MY_ABOUT_TXT = """★ Server: <a href=https://www.koyeb.com>ᴋᴏʏᴇʙ</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: ʜᴀʀɪ ᴋᴜꜱʜᴀʟ
-★ Username: @Harikushal"""
+    MY_OWNER_TXT = """★ Name: ☬ 𝕮𝖍𝖆𝖓𝖉𝖗𝖀 ☬ 𓃰
+★ Username: @ChandrU_AK"""
 
     STATUS_TXT = """<b>╭━━━━━━━━❰sᴛᴀᴛᴜs ʙᴀʀ❱══❍⊱❁۪۪
 ┣⪼𖨠 📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
@@ -38,7 +38,7 @@ I can't find the <b>{}</b> in my database! 🥲
 👉 ꜱᴇᴀʀᴄʜ ᴏɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴩᴇʟʟɪɴɢ.
 👉 ᴩʟᴇᴀꜱᴇ ʀᴇᴀᴅ ᴛʜᴇ ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ ᴛᴏ ɢᴇᴛ ʙᴇᴛᴛᴇʀ ʀᴇꜱᴜʟᴛꜱ.
 👉 ᴄʜᴇᴄᴋ ᴛʜᴇ ᴍᴏᴠɪᴇ ʀᴇʟᴇᴀꜱᴇ ᴅᴀᴛᴇ.
-👉ʀᴇᴩᴏʀᴛ @Harikushal ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ꜰɪɴᴅ."""
+👉ʀᴇᴩᴏʀᴛ @ChandrU_AK ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ꜰɪɴᴅ."""
     
     EARN_TXT = """<b>ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ꜰʀᴏᴍ ᴛʜɪs ʙᴏᴛ
 
@@ -82,7 +82,7 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 ʀᴇǫᴜᴇꜱᴛᴇᴅ ʙʏ: {message.from_user.mention}
 ©️ ᴘᴏᴡᴇʀᴅ ʙʏ: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>[{file_name}](https://t.me/+S33Ihxlur5wwMjRl)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+nDTaoJGRKJcxYmZl)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/KR_Movie2)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ʜᴀʀɪ ʙᴏᴛᴢ](https://t.me/TG_BOTS_UPDATE)</b>"</b>
+    FILE_CAPTION = """<b>[{file_name}](https://t.me/kmsmovies1)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+J5zlO5boIu9mZGY1)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+W4cB_0g7ZWU2NWM1)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [KMS ʙᴏᴛᴢ](https://t.me/kmsmovies1)</b>"</b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
 
@@ -124,11 +124,11 @@ I can't find the <b>{}</b> in my database! 🥲
     
     SOURCE_TXT = """<b>ɴᴀᴍᴀꜱᴛᴇ ᴀʟʟ 🎉🎊
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/TG_BOTS_UPDATE>ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/kmsmovies1>ʜᴇʀᴇ</a>
 
 ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍᴀᴋᴇ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪꜱ  -
-<a href=https://t.me/TG_BOTS_UPDATE>ʜᴀʀɪ ʙᴏᴛᴢ</a>
-<a href=https://t.me/Harikushal>ᴍʀ ʜᴀʀɪ</a></b>"""
+<a href=https://t.me/Team_Admins_2023>KMS ʙᴏᴛᴢ</a>
+<a href=https://t.me/ChandrU_AK>☬ 𝕮𝖍𝖆𝖓𝖉𝖗𝖀 ☬ 𓃰</a></b>"""
 
     PREMIUM_PLAN_TEXT = """<b><i><u>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - </u>
 
