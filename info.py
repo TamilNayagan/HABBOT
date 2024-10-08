@@ -17,27 +17,27 @@ def is_valid_ip(ip):
     return re.match(ip_pattern, ip) is not None
 
 # Bot information
-API_ID = environ.get('API_ID', '15671595')
+API_ID = environ.get('API_ID', '16126827')
 if len(API_ID) == 0:
     print('Error - API_ID is missing, exiting now')
     exit()
 else:
     API_ID = int(API_ID)
-API_HASH = environ.get('API_HASH', 'bb8f36f9c39a24c7f8b2acbc7ea8c60a')
+API_HASH = environ.get('API_HASH', 'd20e26deea812797eb00e731122a8372')
 if len(API_HASH) == 0:
     print('Error - API_HASH is missing, exiting now')
     exit()
-BOT_TOKEN = environ.get('BOT_TOKEN', '7410534278:AAFWkZLNCg644yolgX5zD4mMTnKuM9X0Vi0')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5717884182:AAEfNaBiEYOS4o_U_XmqOP3WKVeWdx3_5OA')
 if len(BOT_TOKEN) == 0:
     print('Error - BOT_TOKEN is missing, exiting now')
     exit()
 PORT = int(environ.get('PORT', '8080'))
 
 # Bot pics
-PICS = (environ.get('PICS', 'https://graph.org/file/b670dd1b610affe4944d7.jpg')).split()
+PICS = (environ.get('PICS', 'http://telegra.ph/file/2ab6ac6692cc50728ff30.jpg')).split()
 
 # Bot Admins
-ADMINS = environ.get('ADMINS', '7253187871')
+ADMINS = environ.get('ADMINS', '661301615')
 if len(ADMINS) == 0:
     print('Error - ADMINS is missing, exiting now')
     exit()
@@ -48,7 +48,7 @@ else:
 INDEX_CHANNELS = [int(index_channels) if index_channels.startswith("-") else index_channels for index_channels in environ.get('INDEX_CHANNELS', '-1001603505179 -1001810293410').split()]
 if len(INDEX_CHANNELS) == 0:
     print('Info - INDEX_CHANNELS is empty')
-LOG_CHANNEL = environ.get('LOG_CHANNEL', '-1002119063158')
+LOG_CHANNEL = environ.get('LOG_CHANNEL', '-1002348851932')
 if len(LOG_CHANNEL) == 0:
     print('Error - LOG_CHANNEL is missing, exiting now')
     exit()
@@ -56,7 +56,7 @@ else:
     LOG_CHANNEL = int(LOG_CHANNEL)
 
 # support group
-SUPPORT_GROUP = environ.get('SUPPORT_GROUP', '-1001629003283')
+SUPPORT_GROUP = environ.get('SUPPORT_GROUP', '-1001762991266')
 if len(SUPPORT_GROUP) == 0:
     print('Error - SUPPORT_GROUP is missing, exiting now')
     exit()
@@ -68,16 +68,16 @@ DATABASE_URL = environ.get('DATABASE_URL', "mongodb+srv://New:New@cluster0.29hkq
 if len(DATABASE_URL) == 0:
     print('Error - DATABASE_URL is missing, exiting now')
     exit()
-DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+DATABASE_NAME = environ.get('DATABASE_NAME', "Ajithkumar")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Ajithkumar_AK')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/Kr_Movie2')
-OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/TG_BOTS_UPDATE")
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/+NABTLpcBvvU3MGY9')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://telegram.me/+xJVMXcAJbgE4MGQ1')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/+tlQ5RkB4Z7wzYmE1")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://telegram.me/+n3NZ2hc1cbs0ZDJl")
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/kmsmovies1')
+OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/Team_Admins_2023")
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/kmsmovies1')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/kmsmovies1')
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/kmsmovies1")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/kmsmovies1")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds
@@ -108,12 +108,12 @@ SPELL_CHECK = is_enabled("SPELL_CHECK", True)
 SHORTLINK = is_enabled('SHORTLINK', False)
 
 #premium info
-PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/259ae56fcc7fd2bdd9a82.jpg')
-OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'harikushal234@okicici')
+PAYMENT_QR = environ.get('PAYMENT_QR', 'https://mallucampaign.in/images/img_1722336532.jpg')
+OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'chandru.125@okhdfcbank')
 
 # for stream
 IS_STREAM = is_enabled('IS_STREAM', True)
-BIN_CHANNEL = environ.get("BIN_CHANNEL", "-1002210651858")
+BIN_CHANNEL = environ.get("BIN_CHANNEL", "-1002242824850")
 if len(BIN_CHANNEL) == 0:
     print('Error - BIN_CHANNEL is missing, exiting now')
     exit()
