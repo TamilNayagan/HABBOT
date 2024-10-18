@@ -82,7 +82,7 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 ʀᴇǫᴜᴇꜱᴛᴇᴅ ʙʏ: {message.from_user.mention}
 ©️ ᴘᴏᴡᴇʀᴅ ʙʏ: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>[{file_name}](https://t.me/kmsmovies1)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+J5zlO5boIu9mZGY1)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+W4cB_0g7ZWU2NWM1)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [KMS ʙᴏᴛᴢ](https://t.me/kmsmovies1)</b>"</b>
+    FILE_CAPTION = """<b>[{file_name}](https://t.me/kmsmovies1)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+J5zlO5boIu9mZGY1)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+IpN1UkRPpaBlZWY9)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [KMS ʙᴏᴛᴢ](https://t.me/kmsmovies1)</b>"</b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
 
