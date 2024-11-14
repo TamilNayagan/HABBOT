@@ -119,7 +119,7 @@ if len(BIN_CHANNEL) == 0:
     exit()
 else:
     BIN_CHANNEL = int(BIN_CHANNEL)
-URL = environ.get("URL", "https://different-brana-chandru-bd36f7c8.koyeb.app/")
+URL = environ.get("URL", "senior-snipe-chandru-3ae5aadd.koyeb.app/")
 if len(URL) == 0:
     print('Error - URL is missing, exiting now')
     exit()
