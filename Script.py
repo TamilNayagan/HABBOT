@@ -19,7 +19,7 @@ class script(object):
 ┣⪼𖨠 ♻️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
 ┣⪼𖨠 ✨ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ┣⪼𖨠 🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code>
-╰━━━━❰кмѕ вσтz❱━━━═❍⊱❁۪۪</b>"""
+╰━━━━❰MR вσтz❱━━━═❍⊱❁۪۪</b>"""
 
     NEW_GROUP_TXT = """#NewGroup
 Title - {}
