@@ -34,7 +34,7 @@ if len(BOT_TOKEN) == 0:
 PORT = int(environ.get('PORT', '8080'))
 
 # Bot pics
-PICS = (environ.get('PICS', 'http://telegra.ph/file/2ab6ac6692cc50728ff30.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/fad218c76a70b7b82d545.jpg')).split()
 
 # Bot Admins
 ADMINS = environ.get('ADMINS', '661301615 1026755263')
@@ -119,7 +119,7 @@ if len(BIN_CHANNEL) == 0:
     exit()
 else:
     BIN_CHANNEL = int(BIN_CHANNEL)
-URL = environ.get("URL", "https://nice-meris-mahaan.koyeb.app/")
+URL = environ.get("URL", "https://awake-cathryn-tamilnayagan-65f374a8.koyeb.app/")
 if len(URL) == 0:
     print('Error - URL is missing, exiting now')
     exit()
