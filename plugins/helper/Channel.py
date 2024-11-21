@@ -9,7 +9,7 @@ CHANNEL_ID = -1002460385906
 async def add_button(client, message):
     if message.chat.id == CHANNEL_ID:
         button = InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🔰𝐊𝐌𝐒 𝐌𝐎𝐕𝐈𝐄𝐒 𝐒𝐄𝐀𝐑𝐂𝐇 🔎🔰", url="https://t.me/+J5zlO5boIu9mZGY1")]]
+            [[InlineKeyboardButton("♥️ MR ~ MovieZ SearcH 🔎", url="https://t.me/+UZZ61cb1twtkZDJl")]]
         )
         
         try:
