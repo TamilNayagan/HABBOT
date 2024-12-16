@@ -68,8 +68,8 @@ DATABASE_URL = environ.get('DATABASE_URL', "mongodb+srv://JerinJJ:Jerinjj@143@cl
 if len(DATABASE_URL) == 0:
     print('Error - DATABASE_URL is missing, exiting now')
     exit()
-DATABASE_NAME = environ.get('DATABASE_NAME', "MRMovieZ")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'MR_COLLECTIONS')
+DATABASE_NAME = environ.get('DATABASE_NAME', "JerinJJ")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'JERIN_COLLECTIONS')
 
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/+QcL0rbP7Ug9kOTdl')
