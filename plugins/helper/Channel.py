@@ -9,7 +9,7 @@ CHANNEL_ID = -1002336034280 -1002477879400
 async def add_button(client, message):
     if message.chat.id == CHANNEL_ID:
         button = InlineKeyboardMarkup(
-            [[InlineKeyboardButton("♥️ MR ~ MovieZ SearcH 🔎", url="https://t.me/+UZZ61cb1twtkZDJl")]]
+            [[InlineKeyboardButton("♥️ MR ~ MovieZ SearcH 🔎", url="https://telegram.me/+MXWmqyOg6Kw2YTM1")]]
         )
         
         try:
