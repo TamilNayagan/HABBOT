@@ -72,10 +72,10 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "JerinJJ")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'JERIN_COLLECTIONS')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/+MXWmqyOg6Kw2YTM1')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/+Ys3X6FR6iZxkMDg1')
 OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/JeRiNJJ")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/moviezrockerz1')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+MXWmqyOg6Kw2YTM1')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+Ys3X6FR6iZxkMDg1')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/MR_MovieZ_BoT")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/MR_MovieZ_BoT")
 
